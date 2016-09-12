@@ -32,8 +32,8 @@ class App extends Component {
                   <div className="header">
                     <h1>Cadastro de Autores</h1>
                   </div>
-                  <div className="content" id="content">
-                    <AutorBox/>
+                  <div className="content" id="content">                    
+                    <AutorBox/>                    
                   </div>
                 </div>            
 
